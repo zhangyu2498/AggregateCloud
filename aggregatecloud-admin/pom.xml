@@ -35,6 +35,19 @@
             <artifactId>aggregatecloud-infrastructure</artifactId>
         </dependency>
         <dependency>
+            <groupId>org.kele</groupId>
+            <artifactId>aggregatecloud-common</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.kele</groupId>
+            <artifactId>aggregatecloud-auth</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.kele</groupId>
+            <artifactId>api</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>
+        <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
         </dependency>
