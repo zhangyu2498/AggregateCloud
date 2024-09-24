@@ -20,8 +20,8 @@
         <developer/>
     </developers>
     <modules>
-        <module>api</module>
-        <module>server</module>
+        <module>auth-api</module>
+        <module>auth-server</module>
     </modules>
     <scm>
         <connection/>
@@ -32,12 +32,6 @@
     <properties>
         <java.version>17</java.version>
     </properties>
-    <dependencies>
-        <dependency>
-            <groupId>org.kele</groupId>
-            <artifactId>aggregatecloud-infrastructure</artifactId>
-        </dependency>
-    </dependencies>
 
     <build>
         <plugins>

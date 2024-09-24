@@ -64,6 +64,16 @@
 				<artifactId>aggregatecloud-auth</artifactId>
 				<version>${project-version}</version>
 			</dependency>
+			<dependency>
+				<groupId>org.kele</groupId>
+				<artifactId>auth-api</artifactId>
+				<version>${project-version}</version>
+			</dependency>
+			<dependency>
+				<groupId>org.kele</groupId>
+				<artifactId>auth-server</artifactId>
+				<version>${project-version}</version>
+			</dependency>
 			<!--Mysql依赖包-->
 			<dependency>
 				<groupId>mysql</groupId>
